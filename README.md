@@ -1,4 +1,4 @@
-aapt-andoroid
+aapt-android
 =============
 
 aapt on Android
